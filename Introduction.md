@@ -14,7 +14,9 @@ Personality influences our life choices, mental health, well-being and desires. 
 
 ### Define personality prediction using the Big Five Personality Framework.
 
-Discuss the role of social media data in understanding human behavior.
+
+
+### Discuss the role of social media data in understanding human behavior.
 
 
 Problem Statement:
