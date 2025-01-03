@@ -14,7 +14,7 @@ Personality influences our life choices, mental health, well-being and desires. 
 
 ### Define personality prediction using the Big Five Personality Framework.
 
-
+Personality prediction is the scientific process of using data to predict a person's personality traits. It has been used across various domains including human resources, marketing, mental health, and business intelligence to mention a few. Several machine learning algorithms have been employed extensively with the Big Five model on social media data to predict personality.(discuss the)
 
 ### Discuss the role of social media data in understanding human behavior.
 
