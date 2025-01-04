@@ -6,6 +6,8 @@
 
 ### Me + ChatGPT
 
+Most of our life decisons are driven by the desire to predict and choose the option that promioses the best possible outcome, and since many of these decisions involve human interactions, we often aim to predict people's personalities to understand the situations that will lead to the most favorable outcomes for our choices. Significant amount of effort in research have been dedicated to understand human personalities which has led to the development of several useful models  to explain these traits.
+
 Personality influences our life choices, mental health, well-being and desires. Therefore, understanding personality trait is very useful for predicting behavioral patterns, decision making process, career success, relationship dynamics, and potential mental health outcomes. In today’s corporate world, it has become very important for Human Resources to assess not only the skills and qualifications of job applicants, but also their personality traits. In marketing, personality prediction allows businesses to craft personalized strategies that resonate with individual customers' choices and desires. By leveraging personality traits such as openness or extraversion, marketers can tailor advertisements, recommendations, and product designs that appeal to customers' personalities. Personality traits play a crucial role in determining how individuals respond to situations and life challenges. As such, they reflect an individual's vulnerabilities to certain mental health conditions and help us understand how to manage and cope with our psychological, emotional, and social well-being.
 
 ### Humanized
