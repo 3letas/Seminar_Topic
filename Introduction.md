@@ -6,38 +6,41 @@
 
 ### Me + ChatGPT
 
-Most of our life decisons are driven by the desire to predict and choose the option that promioses the best possible outcome, and since many of these decisions involve human interactions, we often aim to predict people's personalities to understand the situations that will lead to the most favorable outcomes for our choices. Significant amount of effort in research have been dedicated to understand human personalities which has led to the development of several useful models  to explain these traits.
+Most of our life decisons are driven by the desire to predict and choose the option that promioses the best possible outcome, and since many of these decisions involve human interactions, we often aim to predict people's personalities to understand the situations that will lead to the most favorable outcomes for our choices. Significant amount of effort in research have been dedicated to understand human personalities which has led to the development of several useful models  to explain these traits. Models like OCEAN, HEXACO, and others have been largely employed in human resources to asses the personality traits of job applicants, in marketing to create personalized products and services, and in mental health to better understand and manage the psychological, emotional and sociological well-being of individuals, just to name a few.
 
-Personality influences our life choices, mental health, well-being and desires. Therefore, understanding personality trait is very useful for predicting behavioral patterns, decision making process, career success, relationship dynamics, and potential mental health outcomes. In today’s corporate world, it has become very important for Human Resources to assess not only the skills and qualifications of job applicants, but also their personality traits. In marketing, personality prediction allows businesses to craft personalized strategies that resonate with individual customers' choices and desires. By leveraging personality traits such as openness or extraversion, marketers can tailor advertisements, recommendations, and product designs that appeal to customers' personalities. Personality traits play a crucial role in determining how individuals respond to situations and life challenges. As such, they reflect an individual's vulnerabilities to certain mental health conditions and help us understand how to manage and cope with our psychological, emotional, and social well-being.
-
-### Humanized
-
- Personality influences our life choices, mental health, well-being and desires. Hence, understanding personality trait is very useful for predicting behavioral patterns, decision making process, career success, relationship dynamics, and potential mental health outcomes. In today’s world,  it has become crucial for Human Resources to not only look into the skills and the credentials of the applicants but also their personality. In marketing, personality prediction enables the businesses to come up with tailored strategies that  work well with the individual customers’ personalities and preferences. Marketers can use personality traits like openness and  extraversion to design the advertisements, recommendations and product designs that will be in line with customers’  personalities. Personality traits are key factors that define an individual’s behavior and his or her response to various events  occurring in his or her life. Thus, they point to the individual’s risk factors for certain mental  health issues, and assist us in identifying ways of taking care of our psychological, emotional, and social  health. All these and more are some of the applications of personality prediction in various fields of endeavor.
 
 ### Define personality prediction using the Big Five Personality Framework.
 
-Personality prediction is the scientific process of using data to predict a person's personality traits. It has been used across various domains including human resources, marketing, mental health, and business intelligence to mention a few. Several machine learning algorithms have been employed extensively with the Big Five model on social media data to predict personality.(discuss the)
+Lavi, Rosenblatt, and Gilead (2022) defined personality as the mental traits that distinguish individuals, shaping how they respond to different situations and can be used as a predictor of their behavior. Humans are complex beings, and as such, their personalities cannot be fully captured by any single model. However, specific models, such as the Big Five, have gained wide acceptance and have been successfully employed in the field of psychology. The Big Five Personality traits, also known as OCEAN, use five dimensions — Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism — to describe personality traits.
+
+(Review the five materials you downloaded on Big Five)
 
 ### Discuss the role of social media data in understanding human behavior.
 
 
-Problem Statement:
-Highlight the challenges in leveraging cross-platform data for personality prediction. Discuss limitations of single-platform studies and the need for data fusion from multiple sources.
+## Problem Statement:
 
-Research Objectives:
+### Highlight the challenges in leveraging cross-platform data for personality prediction. 
 
-Investigate how data from Facebook and Twitter can be fused for personality prediction.
-
-Assess the effectiveness of multi-platform data fusion in enhancing predictive accuracy.
+### Discuss limitations of single-platform studies and the need for data fusion from multiple sources.
 
 
-Scope:
 
-Focus on the Big Five Personality Framework.
+## Research Objectives:
 
-Study separate users from Facebook and Twitter rather than overlapping users.
+### Investigate how data from Facebook and Twitter can be fused for personality prediction.
+
+### Assess the effectiveness of multi-platform data fusion in enhancing predictive accuracy.
 
 
-Methodology Overview:
-Briefly outline the data collection, preprocessing, feature extraction, and machine learning techniques to be used.
+## Scope:
+
+### Focus on the Big Five Personality Framework.
+
+### Study separate users from Facebook and Twitter rather than overlapping users.
+
+
+## Methodology Overview:
+
+### Briefly outline the data collection, preprocessing, feature extraction, and machine learning techniques to be used.
  
