@@ -15,9 +15,12 @@ Lavi, Rosenblatt, and Gilead (2022) defined personality as the mental traits tha
 
 ### Discuss the role of social media data in understanding human behavior.
 
-"There are many technologies in the 21st century, but social media has had the greatest impact on the lives of most individuals, if not all. As of October 2024, approximately 5.22 billion people globally were social media users, accounting for 63.8% of the world's population. On average, a typical user spends 2 hours and 19 minutes per day on social media (Datareportal, 2024). These report highlight the profound influence that social media has had on our lives in this era.
+There are many technologies in the 21st century, but social media has had the greatest impact on the lives of most individuals, if not all. Social media has influenced our lives socially, politically and economically. As of October 2024, approximately 5.22 billion people globally were social media users, accounting for 63.8% of the world's population. On average, a typical user spends 2 hours and 19 minutes per day on social media (Datareportal, 2024). These report highlight the profound influence that social media has had on our lives in this era.
 
-"The beauty of social media is it provides a more cost-effective way to observe and analyze a large sample of human activities and behaviors than traditional measures, like surveying or interviewing a population” (Gong, 2020).
+It is important to highlight that social media data doesn't emerge in a vacuum. Its interactions and engagement are often directly linked to, or even as a result of the events taking place outside the social media.(Quan-Haase & Sloan, 2022).Social media is a window into how people want to be seen and sometimes it is a mirror of their private lives. People often reveal what they are thinking about and certain traits about their personality through their post without even realizing. Social media usage has become an integral part of our daily lives, and the amount of data generated and stored is unprecedented. This data offers a rich source of information not only about the social world but also about the world at large, as it reveals the interactions, opinions, attitudes, identity, intentions, and reactions of individuals to real-world events.
+
+
+Facebook and Twitter 
 ## Problem Statement:
 
 ### Highlight the challenges in leveraging cross-platform data for personality prediction. 
